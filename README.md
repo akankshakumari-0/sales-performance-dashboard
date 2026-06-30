@@ -24,3 +24,7 @@ West region led sales with $0.73M, while Technology generated the highest profit
 
 ## Created By
 Akanksha Kumari
+
+## Dashboard Preview
+
+![Sales Dashboard](Akanksha_Sales_Dashboard.png)
