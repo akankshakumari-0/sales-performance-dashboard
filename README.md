@@ -1,27 +1,26 @@
-# Sales Performance Dashboard
+# Sales Performance Dashboard | Power BI
 
 ## Project Overview
-Developed an interactive Sales Performance Dashboard using Power BI to analyze revenue, profit, and key business KPIs.
+This project is an interactive Sales Performance Dashboard created in Power BI to analyze sales, profit, quantity, profit margin, regional performance, category-wise trends, and monthly sales performance.
 
 ## Tools Used
 - Power BI
-- Excel
-- SQL
 - DAX
+- Data Visualization
+- Dashboard Design
 
 ## Key Features
-- Revenue Analysis
-- Product Performance Analysis
-- Region-wise Sales Analysis
-- Interactive Slicers and Filters
-- KPI Dashboard
+- KPI cards for Total Sales, Total Profit, Total Quantity, and Profit Margin %
+- Region, Category, Segment, and Order Date filters
+- Category-wise Sales and Profit Analysis
+- Regional Sales Analysis
+- Monthly Sales Trend
+- Map-based Sales Distribution
+- Custom Tooltip Page
+- Conditional Formatting
 
-## Key Insights
-- Identified top-performing products and regions.
-- Monitored business performance through KPI tracking.
-- Supported data-driven business decisions.
+## Key Insight
+West region led sales with $0.73M, while Technology generated the highest profit ($0.15M).
 
-## Files Included
-- Sales_Dashboard.pbix
-- Dataset.xlsx
-- Dashboard_Screenshot.png
+## Created By
+Akanksha Kumari
